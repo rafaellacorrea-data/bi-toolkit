@@ -28,7 +28,7 @@ Em BI, boa parte do trabalho se repete: calendário de dias úteis, comparação
 | Padrão | Ferramenta | Status |
 |---|---|---|
 | Extração em loop para QVD | Qlik Sense | Em construção |
-| Section Access por região | Qlik Sense | Em construção |
+| Section Access por parceiro | Qlik Sense | Em construção |
 | Dias úteis no Power Query | Power BI | Planejado |
 | Comparação com o ano anterior (SPLY) | DAX | Planejado |
 | Agendamento que ignora fins de semana e feriados | Google Apps Script | Planejado |
